@@ -1,1 +1,1 @@
-# Currency Coverter App 2022
+# Currency Converter App 2022
